@@ -1,0 +1,14 @@
+{
+  "name": "skills-marketing-fr",
+  "displayName": "Marketing skills pack (FR/EN)",
+  "version": "0.1.0",
+  "description": "Chained marketing skills with method, framing questions, deliverable templates and full examples on one fictional brand: personas, customer journey, CRM plan, product page audit, HubSpot certification prep, competitive analysis.",
+  "author": {
+    "name": "CustoVox.ai",
+    "url": "https://custovox.ai"
+  },
+  "homepage": "https://github.com/custovox/skills-marketing-fr",
+  "repository": "https://github.com/custovox/skills-marketing-fr",
+  "license": "MIT",
+  "keywords": ["marketing", "persona", "customer-journey", "crm", "customer-experience", "french", "agent-skills"]
+}

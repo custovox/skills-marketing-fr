@@ -1,0 +1,18 @@
+{
+  "name": "custovox-marketing",
+  "owner": {
+    "name": "CustoVox.ai",
+    "url": "https://custovox.ai"
+  },
+  "description": "Marketing skills pack by CustoVox.ai.",
+  "plugins": [
+    {
+      "name": "skills-marketing-fr",
+      "source": "./",
+      "description": "Personas, customer journey, CRM plan and more: chained marketing skills with templates and worked examples.",
+      "version": "0.1.0",
+      "category": "productivity",
+      "tags": ["marketing", "persona", "customer-journey", "crm", "french"]
+    }
+  ]
+}
