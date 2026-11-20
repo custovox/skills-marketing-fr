@@ -119,7 +119,7 @@ Les contributions sont bienvenues : nouveaux skills (brief créatif, plan média
 
 **Six chained marketing skills (personas → customer journey → CRM plan, plus product page audit, competitive analysis and HubSpot certification prep) that get your AI agent to produce professional, evidence-based deliverables ready to present.**
 
-<p align="center"><img src="docs/images/demo.gif" alt="Demo: from personas to a CRM plan" width="760"></p>
+<p align="center"><img src="docs/images/demo-en.gif" alt="Demo: from personas to a CRM plan" width="760"></p>
 
 ### The 6 skills
 
