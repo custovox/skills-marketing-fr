@@ -12,7 +12,6 @@
 
 **Six skills marketing qui s'enchaînent (personas → parcours client → plan CRM, plus audit de fiche produit, analyse concurrentielle et préparation à la certification HubSpot) pour obtenir de votre agent IA des livrables de niveau professionnel, sourcés et prêts à présenter.**
 
-<!-- Démonstration : remplacer par docs/images/demo.gif (enchaînement persona → parcours → CRM) -->
 <p align="center"><img src="docs/images/demo.gif" alt="Démonstration : de la fiche persona au plan CRM" width="760"></p>
 
 ### Les 6 skills
